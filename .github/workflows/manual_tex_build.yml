@@ -10,4 +10,8 @@ jobs:
         uses: dante-ev/latex-action@master
         with:
           root_file: Manual.tex
-          working_directory: Manual/          
+          working_directory: Manual/
+      - uses: actions/upload-artifact@v2
+        with:
+          name: pdf_upload
+          path: Manual.pdf
