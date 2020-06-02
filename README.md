@@ -2,6 +2,6 @@
 
 ## An optical FFT code to simulate Fabry Perot cavities with arbitrary mirror profiles
 
-[![Repo on Mathworks](https://img.shields.io/badge/OSCAR-Mathworks-blue)](https://de.mathworks.com/matlabcentral/fileexchange/20607-oscar) ![Build LaTeX document](https://github.com/nilsmelchert/oscar/workflows/Build%20LaTeX%20document/badge.svg)
+[![Repo on Mathworks](https://img.shields.io/badge/OSCAR-Mathworks-blue)](https://de.mathworks.com/matlabcentral/fileexchange/20607-oscar) [![Build LaTeX document](https://github.com/nilsmelchert/oscar/workflows/Build%20LaTeX%20document/badge.svg)](https://github.com/nilsmelchert/oscar/actions)
 
 OSCAR is an optical FFT code used to calculate the steady state optical field circulating in Fabry Perot cavities. The code can integrate non-sperical mirrors and any arbitrary input fields. Recent applications for OSCAR have been: calculation of thermal lensing effect and calculation of diffraction loss and cavity eigen modes for mesa beams. One great advantage of OSCAR is the simplicity and flexibility of the code, everyone with only minimal knowledge of Matlab can easily modified OSCAR code to suit specific purposes.
